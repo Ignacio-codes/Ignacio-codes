@@ -2,8 +2,8 @@
 
 ## A little bit about me:
 
-- 📚 I’m currently in my final year of studying 'Systems Analyst' at Escuela Da Vinci.
-- 👨‍💻 I’m currently working on web development and data related projects.
+- 📚 I'm a Systems Analyst graduated at 'Escuela Da Vinci', in Argentina.
+- 👨‍💻 I’m currently working on AI Workflows with n8n and building digital products.
 - 💪🏼 Future Goals: Learn more technologies - Any of them! I believe there's always room for new knowledge.
 
 ## I enjoy developing with:
